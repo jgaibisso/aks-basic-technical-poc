@@ -1,0 +1,12 @@
+{
+    "name": "example-api",
+    "version": "1.0.0",
+    "description": "Example API for AKS",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
